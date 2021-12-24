@@ -1,2 +1,2 @@
-# Techdegree-Project 1 Repository
+# Techdegree Project 1
  First Repository with Techdegree
