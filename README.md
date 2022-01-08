@@ -1,3 +1,3 @@
 # Techdegree Test Repo!
- First Repository with Techdegree
-This is a test repo
+ First Repository with Techdegree!
+(This is a test repo)
